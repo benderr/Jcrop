@@ -1,0 +1,11 @@
+{
+  "name": "jcrop",
+  "version": "0.9.12",
+  "description": "",
+  "main": "js/jquery.Jcrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
