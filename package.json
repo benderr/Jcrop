@@ -1,6 +1,6 @@
 {
   "name": "jcrop",
-  "version": "0.9.12",
+  "version": "2.0.5",
   "description": "",
   "main": "js/jquery.Jcrop.js",
   "scripts": {
